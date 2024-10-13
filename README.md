@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Krishna Goswami, a Full Stack MERN Developer and Flutter Developer focused on building real-world, scalable web and mobile apps. I specialize in React, Node.js, MongoDB, and Flutter, crafting efficient solutions and user-friendly experiences.
+👋 Hi, I’m `Krishna Goswami`, a Full Stack **MERN Developer and Flutter Developer** focused on building real-world, scalable web and mobile apps. I specialize in React, Node.js, MongoDB, and Flutter, crafting efficient solutions and user-friendly experiences.
 
 
 ## 🌐 Socials:
