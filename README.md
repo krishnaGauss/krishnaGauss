@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onlygauss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-goswami-322664256) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/krishnagauss) [![Visit My Site](https://img.shields.io/badge/Visit_My_Site-%234CAF50.svg?logo=internet-explorer&logoColor=white)](https://onlygauss.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onlygauss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-goswami-322664256) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/krishnagauss) [![Visit My Site](https://img.shields.io/badge/Visit_My_Site-%234CAF50.svg?logo=internet-explorer&logoColor=white)](https://krishnagauss.vercel.app/)
 
 
 # 💻 Tech Stack:
